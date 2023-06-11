@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "e:\\Users\\goekhan\\Dokumente\\Minecraft\\Soup-Server\\spigot.jar",
+            "e:\\Users\\goekhan\\Dokumente\\Minecraft\\Soup-Server\\plugins\\multiverse.jar",
+            "e:\\Users\\goekhan\\Dokumente\\Minecraft\\Soup-Server\\plugins\\WGRegionEvents-1.2.1.jar",
+            "e:\\Users\\goekhan\\Dokumente\\Minecraft\\Soup-Server\\plugins\\PermissionsEx-1.23.4.jar",
+            "e:\\Users\\goekhan\\Dokumente\\Minecraft\\Soup-Server\\plugins\\worldguard.jar"
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+name: Soup
+author: Kiligo
+version: 1.0
+main: net.kiligo.soup.main.Main
